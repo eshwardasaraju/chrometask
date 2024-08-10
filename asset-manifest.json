@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chrometask/static/css/main.29ac14ed.css",
+    "main.js": "/chrometask/static/js/main.68cc84de.js",
+    "static/js/453.ccbd739b.chunk.js": "/chrometask/static/js/453.ccbd739b.chunk.js",
+    "static/media/passwords-fill-2.webp": "/chrometask/static/media/passwords-fill-2.efdacc2925b710f1a573.webp",
+    "index.html": "/chrometask/index.html",
+    "main.29ac14ed.css.map": "/chrometask/static/css/main.29ac14ed.css.map",
+    "main.68cc84de.js.map": "/chrometask/static/js/main.68cc84de.js.map",
+    "453.ccbd739b.chunk.js.map": "/chrometask/static/js/453.ccbd739b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ac14ed.css",
+    "static/js/main.68cc84de.js"
+  ]
+}
